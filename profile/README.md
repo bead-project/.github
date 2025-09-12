@@ -53,12 +53,11 @@ bead save my-project-box
 - **[bead](https://github.com/bead-project/bead)** - Main tool repository with Python module and CLI
 
 ### Documentation
-- **[Comprehensive Guide](https://github.com/bead-project/bead.zip/blob/main/bead-comprehensive-guide.md)** - Complete user manual and best practices
-- **[Development Summary](https://github.com/bead-project/bead.zip/blob/main/bead-development-summary.md)** - Project roadmap and development insights
+- **[Documentation Site](https://github.com/bead-project/bead.zip)** - Complete user manual, guides, and best practices
 - **[Demo Materials](https://github.com/bead-project/bead-demo-rsecon)** - Live demonstration examples
 
 ### Getting Help
-- 📖 Read the [comprehensive guide](https://github.com/bead-project/bead.zip/blob/main/bead-comprehensive-guide.md) for detailed usage instructions
+- 📖 Read the [documentation](https://github.com/bead-project/bead.zip) for detailed usage instructions
 - 🐛 Report issues in the [main repository](https://github.com/bead-project/bead/issues)
 - 💬 Join discussions in our [GitHub Discussions](https://github.com/bead-project/bead/discussions)
 
@@ -112,4 +111,4 @@ Bead is intentionally **minimal and focused** - it manages files and their relat
 
 ---
 
-**Ready to make your research reproducible?** Start with our [comprehensive guide](https://github.com/bead-project/bead.zip/blob/main/bead-comprehensive-guide.md) and join the growing community of researchers who never lose track of their computational workflows again! 🎉
+**Ready to make your research reproducible?** Start with our [documentation](https://github.com/bead-project/bead.zip) and join the growing community of researchers who never lose track of their computational workflows again! 🎉
