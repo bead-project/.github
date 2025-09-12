@@ -33,7 +33,7 @@ Bead answers these questions by creating **immutable snapshots** of your complet
 # Install bead (see main repository for detailed installation instructions)
 # Note: Requires Python 3.10+
 python -m pip install --user pipx
-pipx install git+https://github.com/e3krisztian/bead
+pipx install git+https://github.com/bead-project/bead
 
 # Create a new computational workspace
 bead new my-analysis
@@ -50,7 +50,7 @@ bead save my-project-box
 ## 📚 Resources
 
 ### Core Repository
-- **[bead.zip](https://github.com/bead-project/bead.zip)** - Main tool repository with comprehensive documentation
+- **[bead](https://github.com/bead-project/bead)** - Main tool repository with Python module and CLI
 
 ### Documentation
 - **[Comprehensive Guide](https://github.com/bead-project/bead.zip/blob/main/bead-comprehensive-guide.md)** - Complete user manual and best practices
@@ -59,8 +59,8 @@ bead save my-project-box
 
 ### Getting Help
 - 📖 Read the [comprehensive guide](https://github.com/bead-project/bead.zip/blob/main/bead-comprehensive-guide.md) for detailed usage instructions
-- 🐛 Report issues in the [main repository](https://github.com/bead-project/bead.zip/issues)
-- 💬 Join discussions in our [GitHub Discussions](https://github.com/bead-project/bead.zip/discussions)
+- 🐛 Report issues in the [main repository](https://github.com/bead-project/bead/issues)
+- 💬 Join discussions in our [GitHub Discussions](https://github.com/bead-project/bead/discussions)
 
 ## 🎯 Who Should Use Bead?
 
