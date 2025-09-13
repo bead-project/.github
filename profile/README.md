@@ -20,7 +20,7 @@ Bead answers these questions by creating **immutable snapshots** of your complet
 
 ## ✨ Key Features
 
-- **🔒 Immutable & Versioned**: Every bead save creates a new timestamped archive
+- **🔒 Immutable & Versioned**: Every `bead save` creates a new timestamped archive
 - **🌐 Language Agnostic**: Works with Python, R, Stata, Shell scripts, or any tool that uses files
 - **📁 Local-First**: No servers required - works completely offline with simple directory storage
 - **🔗 Dependency Tracking**: Explicit input management with content verification
@@ -96,8 +96,7 @@ We welcome contributions! Here's how to get involved:
 
 1. **Try Bead** - Download and test it with your workflows
 2. **Share Feedback** - Report bugs or suggest improvements
-3. **Contribute Code** - Submit pull requests to improve the tool
-4. **Spread the Word** - Help other researchers discover reproducible workflows
+3. **Spread the Word** - Help other researchers discover reproducible workflows
 
 ## 🏛 Philosophy
 
